@@ -8,6 +8,7 @@ repository = "https://github.com/detj/holderplace"
 homepage = "https://github.com/detj/holderplace"
 documentation = "https://docs.rs/holderplace"
 keywords = ["placeholder", "image", "cli"]
+categories = ["graphics", "command-line-utilities"]
 
 [dependencies]
 image = "0.25"
