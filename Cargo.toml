@@ -1,6 +1,6 @@
 [package]
 name = "holderplace"
-version = "0.1.0"
+version = "0.1.1"
 edition = "2024"
 description = "A simple and fast command-line tool for generating placeholder images."
 license = "MIT"
